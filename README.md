@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there, I'm Vinícius <img alt="Brazil Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/brazil.png"/> <img alt="United States Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/usa.png"/> <img alt="Spain Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/spain-2.png"/> <img alt="Germany Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/germany.png"/> 👋
+### Hey there, I'm Vini <img alt="Brazil Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/brazil.png"/> <img alt="United States Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/usa.png"/> <img alt="Spain Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/spain-2.png"/> <img alt="Germany Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/germany.png"/> 👋
 
   <div>
     🌱 I’m currently learning React JS
