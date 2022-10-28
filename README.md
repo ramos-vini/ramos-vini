@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   ##
 
   <div>
-    🌱 I’m currently learning React JS
+    🌱 I’m currently learning Express JS
   </div>
   
   <br>
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   
   <div>
   <h3>Main Technologies:</h3>
+    <img align="center" alt="React JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
