@@ -2,7 +2,7 @@
 **ramos-vini/ramos-vini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hey there, I'm Vinícius <img alt="Brazil Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/brazil.png"/> <img alt="United States Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/usa.png"/> <img alt="Spain Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/spain-2.png"/> <img alt="Germany Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/germany.png"/> 👋
+### Hey there, I'm Vini <img alt="Brazil Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/brazil.png"/> <img alt="United States Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/usa.png"/> <img alt="Spain Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/spain-2.png"/> <img alt="Germany Flag" align="center" width="20rem" height="20rem" src="https://img.icons8.com/color/48/000000/germany.png"/> 👋
 
   ##
 
@@ -22,7 +22,7 @@
   
   <div>
   <h3>Main Technologies:</h3>
-    <img align="center" alt="React JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="React JS" height="30" width="40" margin-bottom="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Material UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
