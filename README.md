@@ -7,7 +7,7 @@
   ##
 
   <div>
-    🌱 I’m currently learning Node.js + Express.js
+    🌱 I’m currently learning Java SE, C, SQL and R.
   </div>
   
   <br>
