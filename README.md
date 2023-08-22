@@ -7,7 +7,7 @@
   ##
 
   <div>
-    🌱 I’m currently learning Java, C, SQL and R.
+    🌱 I’m currently learning Spring Boot.
   </div>
   
   <br>
