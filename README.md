@@ -33,7 +33,7 @@
 
   ##
 
-  <img src="https://www.viagensecaminhos.com/wp-content/uploads/2013/03/lagoinha-ce.jpg" />
+  <img align="center" alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
     
   <div>
     <h3>Contact me:</h3>
