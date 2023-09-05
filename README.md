@@ -32,6 +32,8 @@
   </div>
 
   ##
+
+  <img src="https://www.viagensecaminhos.com/wp-content/uploads/2013/03/lagoinha-ce.jpg" />
     
   <div>
     <h3>Contact me:</h3>
