@@ -2,7 +2,7 @@
 **ramos-vini/ramos-vini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hey there, I'm Vini  <img alt="Waving Hand GIF" width="20px" height="20px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+### Hey there, I'm Vini 👋
 
   ##
 
